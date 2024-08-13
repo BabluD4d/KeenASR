@@ -9,8 +9,8 @@
 /coverage
 
 # production
-/build
-/build/.history
+
+/.history
 
 # misc
 .DS_Store
